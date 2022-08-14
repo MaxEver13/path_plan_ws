@@ -1,0 +1,8 @@
+prefix=/home/max/path_plan_ws/devel
+
+Name: grad_spline
+Description: Description of grad_spline
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/max/path_plan_ws/devel/lib 
+Requires: 

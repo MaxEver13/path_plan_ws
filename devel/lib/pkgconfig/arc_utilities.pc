@@ -1,0 +1,8 @@
+prefix=/home/max/path_plan_ws/devel
+
+Name: arc_utilities
+Description: Description of arc_utilities
+Version: 0.0.1
+Cflags: -I/home/max/path_plan_ws/src/GandB/third_party/arc_utilities/include -I/usr/include/eigen3
+Libs: -L/home/max/path_plan_ws/devel/lib -larc_utilities
+Requires: roscpp rospy std_msgs sensor_msgs geometry_msgs

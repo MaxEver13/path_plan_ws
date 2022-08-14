@@ -1,0 +1,8 @@
+prefix=/home/max/path_plan_ws/devel
+
+Name: hybrid_astar
+Description: Description of hybrid_astar
+Version: 0.0.0
+Cflags: -I/home/max/path_plan_ws/devel/include
+Libs: -L/home/max/path_plan_ws/devel/lib 
+Requires: roscpp rospy message_runtime

@@ -1,0 +1,2 @@
+GandB:hybrid_astar:path_planner
+-DCATKIN_DEVEL_PREFIX=/home/max/path_plan_ws/devel -DCMAKE_INSTALL_PREFIX=/home/max/path_plan_ws/install -G Unix Makefiles

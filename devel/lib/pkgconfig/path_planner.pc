@@ -1,0 +1,8 @@
+prefix=/home/max/path_plan_ws/devel
+
+Name: path_planner
+Description: Description of path_planner
+Version: 0.0.2
+Cflags: 
+Libs: -L/home/max/path_plan_ws/devel/lib 
+Requires: 

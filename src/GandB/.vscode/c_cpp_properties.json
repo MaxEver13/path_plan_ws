@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/ros/kinetic/include",
+                "/usr/include/eigen3",
+                "/home/bzhouai/workspaces/plan_ws/src/grad_spline/include",
+                "${workspaceFolder}/include/grad_spline"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
